@@ -35,7 +35,7 @@ public class ListaGlumaca extends Fragment implements AdapterView.OnItemClickLis
     Communicator comm;
     ListView listaGlumaca;
     List<Glumac> glumci;
-
+//jgsxggwgx
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
